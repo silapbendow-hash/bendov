@@ -44,4 +44,4 @@ Game - основной класс игры:
 Информационная панель о состоянии клетки
 
 Система полностью соответствует требованиям задания и демонстрирует использование ООП-парадигмы в JavaScript.
-https://github.com/silapbendow-hash/bendov
+https://silapbendow-hash.github.io/bendov/
